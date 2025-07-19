@@ -4,7 +4,7 @@ Generate a REST API scaffold with Golang from domain model specification.
 Soon, it will offer features to create a secure REST API.
 
 
-<img src="rest-api-golang-gen_use.gif" align="center"/>
+<img src="rest-api-golang-gen.gif" align="center"/>
 
 
 ## Requirements
